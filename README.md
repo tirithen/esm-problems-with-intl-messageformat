@@ -2,6 +2,8 @@
 
 [![Built with open-wc recommendations](https://img.shields.io/badge/built%20with-open--wc-blue.svg)](https://github.com/open-wc)
 
+**Update:** This issue is now confirmed as fixed in `intl-messageformat ` at least since version 9.6.11.
+
 The issue was reported at https://github.com/formatjs/formatjs/issues/2841 .
 
 ## Reproduce locally

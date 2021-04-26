@@ -21,7 +21,7 @@
   "author": "translated-text",
   "license": "MIT",
   "dependencies": {
-    "intl-messageformat": "^9.6.7",
+    "intl-messageformat": "^9.6.11",
     "lit-element": "^2.4.0",
     "lit-html": "^1.3.0"
   }
